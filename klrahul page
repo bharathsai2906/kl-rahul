@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>K.L.Rahul</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="kl.css">
+</head>
+<body>
+        
+       <div class="Rahul"> 
+    <img src= "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img1.png" 
+             class="float-right"
+             width="300" 
+             height="230"> 
+                <h1>K.L.Rahul</h1>
+                <p>Kannur lokesh Rahul(born 18 april 1992).commonly known as KL Rahul,is an Indian international cricketer who plays..more</p>
+             </div>
+            </div>
+    <div class="KL">
+    <h2>IPL Records</h2>
+    <img src= "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img2.png" 
+             class="float-left"
+             width="300" 
+             height="230"> 
+             <div class="card">
+             <h3>KXIPvsRCB</h3>
+             <P>He scored an unbeaten 132 of just 69 balls aganist Royal Challengers Banglore...more</P>
+
+            </div>
+            </div>
+
+
+
+   <div class="container">
+      <div class="row">
+      
+     
+            <h4>Viedos</h4>
+
+            
+            <img src= "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img3.png" 
+             class="float-center"
+             width="60" 
+             height="60">
+             <h5>KL Rahul hits 337 for karnataka</h5>
+            
+
+
+            <img src= "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img4.png" 
+             class="float-center"
+             width="60" 
+             height="60"> 
+             <h6>Incredible Innings by KL Rahul</h6>
+
+
+             <img src= "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img5.png" 
+             class="float-center"
+             width="60" 
+             height="60"> 
+             <h7>Single-handed win by KL Rahul</h7>
+
+             <button class="button">view more</button>
+
+             
+            </div>
+         </div>
+
+
+
+kl.css
+.Rahul{
+    background-color: #fb4e71;
+    padding: 120px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.card{
+    background-color: #ffffff;
+    padding: 80px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.button{
+    background: blue;
+    color:#ffffff;
+    height:36px;
+    width: 138px;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+
+.KL{
+    background-color: #e6f6ff;
+
+}
+
+.container{
+    background-color: #e6f6ff;
+    
+}
